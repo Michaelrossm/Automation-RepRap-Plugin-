@@ -1,0 +1,103 @@
+CUSTOM COMMERCIAL SOURCE-AVAILABLE LICENSE
+Version 1.0
+Copyright (c) 2026 Michael Roßmann
+All rights reserved.
+
+1. GRANT OF LICENSE
+The Licensor grants the Licensee a non-exclusive, non-transferable,
+revocable right to use the Software for:
+
+(a) private use;
+(b) educational use;
+(c) internal business use;
+(d) internal operation of 3D printers and printer fleets;
+(e) manufacturing and sale of 3D-printed parts produced with the Software.
+
+2. PERMITTED COMMERCIAL INTERNAL USE
+Use of the Software inside a company, laboratory, workshop,
+manufacturing line, or service bureau for internal production purposes
+is explicitly permitted.
+
+The sale of 3D-printed products, prototypes, spare parts,
+engineering samples, and production components created using the
+Software is permitted.
+
+3. RESTRICTED COMMERCIAL USE
+The following uses are prohibited without prior written permission
+from the Licensor:
+
+(a) resale of the Software;
+(b) sublicensing;
+(c) SaaS, cloud-hosted or remote commercial access;
+(d) paid setup, support, calibration, or consulting services where the Software is a core value driver;
+(e) sale of 3D printers, machines, or systems that include the Software;
+(f) OEM, white-label, or machine-builder integrations;
+(g) commercial redistribution of modified or unmodified versions;
+(h) sale of forks or derivative software.
+
+4. MODIFICATIONS
+The Software may be modified for private and internal business use only.
+
+Redistribution, publication, or sale of modified versions is prohibited
+without written permission.
+
+5. BETA / CONFIGURATION WARNING
+The Software may automatically create or overwrite configuration files,
+including but not limited to daemon.g, PID profiles,
+heater models, and printer macros.
+
+The user must create a complete backup before installation and use.
+
+Any additional custom functions inside existing configuration files
+must be re-added manually after installation.
+
+6. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+SYSTEM STABILITY, TEMPERATURE SAFETY,
+MULTI-HOTEND SYNCHRONIZATION, OR NON-INFRINGEMENT.
+
+THE SOFTWARE IS NOT GUARANTEED TO BE ERROR-FREE.
+
+7. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
+THE LICENSOR SHALL NOT BE LIABLE FOR:
+
+- printer damage
+- failed prints
+- heater misconfiguration
+- hotend overheating
+- damaged beds
+- production downtime
+- material loss
+- business interruption
+- lost profits
+- indirect or consequential damages
+
+caused by the use, misuse, or configuration of the Software.
+
+Liability for intent, gross negligence, personal injury,
+or mandatory statutory claims under German law remains unaffected.
+
+8. TERMINATION
+Any violation of this License automatically terminates all granted rights.
+
+Upon termination, all copies must be deleted immediately.
+
+9. GOVERNING LAW
+This License shall be governed exclusively by the laws of Germany.
+
+The UN Convention on Contracts for the International Sale of Goods
+(CISG) is excluded.
+
+10. JURISDICTION
+Exclusive place of jurisdiction for all disputes shall be
+Munich, Germany, to the extent legally permissible.
+
+11. SEVERABILITY
+If any provision of this License is found invalid or unenforceable,
+the remaining provisions shall remain in full force and effect.
+
+The invalid provision shall be replaced by a valid provision
+that most closely reflects the original economic intent.

@@ -1,0 +1,11 @@
+﻿# OS
+Thumbs.db
+.DS_Store
+
+# Node / build
+node_modules/
+dist/
+
+# Editor
+.vscode/
+.idea/
